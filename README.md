@@ -13,4 +13,4 @@
 
 > Trying to use the LSTM to test Entity-Matching
 
-草(中国话),LSTM的实现方法实在搞不出来,之后再看
+目前只是实现了机器学习的实体匹配,LSTM的方法待定
